@@ -1,0 +1,122 @@
+.card {
+	float: left;
+margin-left: 30px;
+margin-right: 20px;
+}
+
+
+/*.container {
+	margin-right: auto;
+	}
+*/
+
+.logo {
+	height: 50px;
+	border-radius: 30px;
+}
+
+body {
+
+	background-color: white;
+}
+
+footer {
+	background-color: #080808;
+	height: 60px;
+	text-align: center;
+	color: #fff;
+	line-height: 70px;
+	border-top: 2px solid red;
+
+}
+
+.nav-link{
+    font-size:16px;
+    color:#FFF;
+      transition: all 0.4s ease-in;
+      text-decoration:none;
+}
+
+.nav-link:hover{
+    -webkit-stroke-width: 5.3px;
+      -webkit-stroke-color: red;
+      -webkit-fill-color: red;
+      text-shadow: 1px 0px 20px red;
+}
+
+#navi {
+	border-bottom-style: solid red 3px;
+		font-family: 'Metamorphous', cursive;
+
+ }
+
+ .nav-link {
+ 	font-weight: bold;
+ }
+
+
+hr {
+  max-width: 150px;
+  border-width: 2px;
+  border-color: grey;
+}
+
+.navbar {
+	border-bottom: 2px solid red;
+}
+
+#aboutpic {
+	border: 2px solid black;
+	margin-bottom: 20px;
+	margin-top: 5%;
+
+
+}
+#nobela {
+
+	margin-left: 10px;
+	margin-top: 2%;
+	font-family: 'Metamorphous', cursive;
+}
+
+#slider	{
+
+
+}
+
+#hrgallery {
+	max-width: 80%;
+}
+
+
+#gallerycontent {
+
+	margin-top: 2%;
+}
+
+
+
+#map {
+	max-width: 100%
+}
+
+#hiking {
+
+font-family: 'Metamorphous', cursive;
+}
+
+
+#aboutakyat {
+font-family: 'Metamorphous', cursive;
+
+}
+
+#gallery1 {
+	font-family: 'Metamorphous', cursive;
+}
+
+#contact1 {
+
+	font-family: 'Metamorphous', cursive;
+}
+

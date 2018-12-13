@@ -1,0 +1,35 @@
+hr {
+  max-width: 100px;
+  border-width: 3px;
+  border-color: red;
+}
+
+strong {
+	color: black;
+}
+
+p {
+	color: black;
+}
+
+header {
+	margin-top: 100px;
+}
+
+body {
+
+	background-image: url(../../images/pulag.jpg);
+	background-repeat: no-repeat, repeat;
+	background-size: cover;
+}
+
+#logo {
+	height: 150px;
+	border-radius: 30px;
+}
+
+#landing1 {
+
+font-family: 'Metamorphous', cursive;
+
+}
